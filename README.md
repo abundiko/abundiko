@@ -6,15 +6,16 @@ Welcome to my GitHub repository! This repository showcases my skills and experti
 
 Here's a list of the technologies I have hands-on experience with:
 
-1. React: A JavaScript library for building user interfaces. I have built several web applications using React, leveraging its component-based architecture and efficient virtual DOM rendering.
+1. React
 
-2. Node.js: A JavaScript runtime built on Chrome's V8 engine that enables server-side development. I have created RESTful APIs and backend systems using Node.js, along with frameworks like Express.js.
+2. Node.js
 
-3. Flutter: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase. I have developed cross-platform mobile applications using Flutter, enabling fast and responsive experiences.
+3. Flutter
 
-4. Tailwind CSS: A highly customizable CSS framework that provides utility classes for rapidly building user interfaces. I have utilized Tailwind CSS to create visually appealing and responsive designs for web applications.
+4. Tailwind CSS
 
-5. Express.js: A flexible and minimal web application framework for Node.js. I have used Express.js to build server-side applications and RESTful APIs, taking advantage of its simplicity and robust middleware support.
+5. Express.js
+6. Typescript
 
 ## Projects
 
@@ -24,7 +25,7 @@ Here are a few notable projects I have worked on:
 
 2. OneSync: A mobile and desktop app that syncs the file system of two devices and enables sharing of files, clipboard sharing, and drag-and-drop of files. Built with Flutter and Dart.
 
-3. [diko-mini-framework](github.com/abundiko/api): A mini framework like bootstrap that provides easy to use, pre written css classes for easy styling.
+3. [diko-mini-framework](github.com/abundiko/api): A mini framework like Bootstrap that provides easy to use, pre written css classes for easy styling.
 
 4. [Sheerah Vision Eye Clinic](https://abundiko.github.io/sheerah-vision/): A website built for Sheerah vision eye clinic for easy customer contact and accessibility
 
