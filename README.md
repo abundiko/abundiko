@@ -1,6 +1,6 @@
 #  Hi there 👋
 
-Welcome to my GitHub repository! This repository showcases my skills and expertise as a developer/programmer. I have been actively involved in the tech industry since 2021, working with various tech teams and startups. I specialize in full-stack development and mobile app development, with proficiency in over 10 different technologies including React, Node.js, Flutter, Tailwind CSS, and Express.js.
+Welcome to my GitHub repository! This repository showcases my skills and expertise as a developer/programmer. I have been actively involved in the tech industry since 2021, working with various tech teams and startups. I specialize in full-stack development and mobile app development, with proficiency in over 10 different technologies, including React, Node.js, Flutter, Tailwind CSS, and Express.js.
 
 ## Technologies I Work With
 
@@ -20,11 +20,13 @@ Here's a list of the technologies I have hands-on experience with:
 
 Here are a few notable projects I have worked on:
 
-1. Reeda: A web application that offers free eBooks. Built with PHP, HTML, CSS, Javascript and Bootstrap.
+1. Reeda: A web application that offers free eBooks. Built with PHP, HTML, CSS, Javascript, and Bootstrap.
 
-2. OneSync: A mobile and desktop app that syncs the file system of two devices and enables sharing of files, clipboard and drag and drop of files. Built with Flutter and Dart.
+2. OneSync: A mobile and desktop app that syncs the file system of two devices and enables sharing of files, clipboard sharing, and drag-and-drop of files. Built with Flutter and Dart.
 
-3. diko-mini-framework: A mini framework like bootstrap that provides easy to use, pre written css classes for easy styling.
+3. [diko-mini-framework](github.com/abundiko/api): A mini framework like bootstrap that provides easy to use, pre written css classes for easy styling.
+
+4. [Sheerah Vision Eye Clinic](https://abundiko.github.io/sheerah-vision/): A website built for Sheerah vision eye clinic for easy customer contact and accessibility
 
 <!--
 ## Contributions
@@ -42,7 +44,8 @@ I am always open to exciting opportunities and collaborations. If you have any q
 
 - Email: [abundiko111@gmail.com](mailto:abundiko111@gmail.com)
 - LinkedIn: [abundiko](https://www.linkedin.com/in/abundiko)
-- Portfolio Website: [www.abundance.me](https://www.abundance.me)
+- Twitter: [abundiko](https://www.twitter.com/abundiko)
+- Portfolio Website: [abundiko](https://abundiko.netlify.app)
 
 Thank you for visiting my GitHub repository. I look forward to connecting with you and discussing possibilities in the world of tech and development!
 
