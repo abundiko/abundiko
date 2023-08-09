@@ -23,7 +23,7 @@ Here are a few notable projects I have worked on:
 
 1. Reeda: A web application that offers free eBooks. Built with PHP, HTML, CSS, Javascript, and Bootstrap.
 
-2. OneSync: A mobile and desktop app that syncs the file system of two devices and enables sharing of files, clipboard sharing, and drag-and-drop of files. Built with Flutter and Dart.
+2. [OneSync]: A mobile and desktop app that syncs the file system of two devices and enables sharing of files, clipboard sharing, and drag-and-drop of files. Built with Flutter and Dart.
 
 3. [diko-mini-framework](github.com/abundiko/api): A mini framework like Bootstrap that provides easy to use, pre written css classes for easy styling.
 
