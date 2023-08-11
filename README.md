@@ -49,6 +49,8 @@ I am always open to exciting opportunities and collaborations. If you have any q
 - Portfolio Website: [abundiko](https://abundiko.netlify.app)
 
 Thank you for visiting my GitHub repository. I look forward to connecting with you and discussing possibilities in the world of tech and development!
+<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abundiko&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ###
 [![](https://visitcount.itsvg.in/api?id=Abundiko&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 ###
