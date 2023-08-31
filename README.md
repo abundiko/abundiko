@@ -8,13 +8,13 @@ Here's a list of the technologies I have hands-on experience with:
 
 1. React
 
-2. Node.js
+2. Node Js & Express Js
 
 3. Flutter
 
-4. Tailwind CSS
+4. Next Js
 
-5. Express.js
+5. Tailwind CSS
 6. Typescript
 
 ## Projects
