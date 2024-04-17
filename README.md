@@ -15,6 +15,7 @@ Here's a list of the technologies I have hands-on experience with:
 4. Next Js
 
 5. Tailwind CSS
+  
 6. Typescript
 
 ## Projects
@@ -51,6 +52,12 @@ I am always open to exciting opportunities and collaborations. If you have any q
 - Portfolio Website: [abundiko](https://abundiko.netlify.app)
 
 Thank you for visiting my GitHub repository. I look forward to connecting with you and discussing possibilities in the world of tech and development!
+
+-- <br clear="both">
+
+<img src="https://raw.githubusercontent.com/ikwerre-dev/ikwerre-dev/output/snake.svg" alt="Snake animation" /> -->
+
+###
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abundiko&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ###
