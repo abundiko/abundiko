@@ -27,10 +27,11 @@ Here are a few notable projects I have worked on:
 
 - [OneSync](https://onesync.netlify.app): A mobile and desktop app that syncs the file system of two devices and enables sharing of files, clipboard sharing, and drag-and-drop of files. Built with Flutter and Dart.
 
+<!--
 - [Sheerah Vision Eye Clinic](https://abundiko.github.io/sheerah-vision/): A website built for Sheerah vision eye clinic for easy customer contact and accessibility
 
 - [diko-mini-framework](github.com/abundiko/api): A mini framework like Bootstrap that provides easy to use, pre written css classes for easy styling.
-
+-->
 
 ## Contact Me
 
