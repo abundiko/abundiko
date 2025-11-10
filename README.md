@@ -1,4 +1,4 @@
-#  Hello there 👋
+#  You're in the right place! :)
 
 Welcome to the GitHub repository of Abundance Ken-Dickson (abundiko).
 
